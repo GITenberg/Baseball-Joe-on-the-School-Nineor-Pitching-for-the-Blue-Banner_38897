@@ -1,0 +1,31 @@
+_repo: Baseball-Joe-on-the-School-Nineor-Pitching-for-the-Blue-Banner_38897
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38897-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chadwick, Lester
+    gutenberg_agent_id: '32638'
+    url: http://www.gutenberg.org/2009/agents/32638
+description: ''
+gutenberg_issued: '2012-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Baseball players -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Envy -- Juvenile fiction'
+title: Baseball Joe on the School Nine; or, Pitching for the Blue Banner
+url: http://www.gutenberg.org/ebooks/38897
